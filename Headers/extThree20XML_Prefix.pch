@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'Three20XML' target in the 'Three20XML' project
+//
+
+#import "../../../src/common/Xcode324iOS41Fix.pch"
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+#endif
