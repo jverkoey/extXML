@@ -22,7 +22,7 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // extXML
-#import "extThree20XML/TTXMLParser.h"
+#import "extXML/TTXMLParser.h"
 
 // Core
 #import "Three20Core/TTCorePreprocessorMacros.h"

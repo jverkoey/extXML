@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "extThree20XML/TTExtensionLoader.h"
+#import "extXML/TTExtensionLoader.h"
 
 // Core
 #import "Three20Core/TTExtensionAuthor.h"
